@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/digitalsolutions/static/js/main.4f4dfe04.chunk.js",
+    "main.js.map": "/digitalsolutions/static/js/main.4f4dfe04.chunk.js.map",
+    "runtime-main.js": "/digitalsolutions/static/js/runtime-main.f1062beb.js",
+    "runtime-main.js.map": "/digitalsolutions/static/js/runtime-main.f1062beb.js.map",
+    "static/js/2.538ee23d.chunk.js": "/digitalsolutions/static/js/2.538ee23d.chunk.js",
+    "static/js/2.538ee23d.chunk.js.map": "/digitalsolutions/static/js/2.538ee23d.chunk.js.map",
+    "index.html": "/digitalsolutions/index.html",
+    "static/js/2.538ee23d.chunk.js.LICENSE.txt": "/digitalsolutions/static/js/2.538ee23d.chunk.js.LICENSE.txt",
+    "static/media/ReactJS.cd3028a3.jpg": "/digitalsolutions/static/media/ReactJS.cd3028a3.jpg",
+    "static/media/angular.16806b46.jpg": "/digitalsolutions/static/media/angular.16806b46.jpg",
+    "static/media/featured3.0ce0e358.jpg": "/digitalsolutions/static/media/featured3.0ce0e358.jpg",
+    "static/media/homeimg.46e4c737.jpg": "/digitalsolutions/static/media/homeimg.46e4c737.jpg",
+    "static/media/product-1.d93609ec.jpg": "/digitalsolutions/static/media/product-1.d93609ec.jpg",
+    "static/media/product-3.2a8272f4.jpg": "/digitalsolutions/static/media/product-3.2a8272f4.jpg",
+    "static/media/vue.75d998f9.jpg": "/digitalsolutions/static/media/vue.75d998f9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1062beb.js",
+    "static/js/2.538ee23d.chunk.js",
+    "static/js/main.4f4dfe04.chunk.js"
+  ]
+}
